@@ -1,6 +1,15 @@
 .Collapsible {
     background-color: blue;
     color: white;
+    border: solid 10px black;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.instructions{
+    text-decoration: none;
 }
 
 #footer{
@@ -9,4 +18,22 @@
     width: 100%;
     margin: 20px;
     height: 2.5rem; 
+}
+
+.levels{
+    background-color: lightskyblue;
+    margin: 20px;
+    padding: 10px;
+    border: solid 3px black;
+
+}
+
+.level{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.ins-list{
+    width: 60%;
+    margin: auto;
 }
