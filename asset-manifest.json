@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/bratteli-diagram-util/static/css/main.5f18d2b5.chunk.css",
-    "main.js": "/bratteli-diagram-util/static/js/main.50f38392.chunk.js",
-    "main.js.map": "/bratteli-diagram-util/static/js/main.50f38392.chunk.js.map",
+    "main.js": "/bratteli-diagram-util/static/js/main.f2b48ec5.chunk.js",
+    "main.js.map": "/bratteli-diagram-util/static/js/main.f2b48ec5.chunk.js.map",
     "runtime-main.js": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js",
     "runtime-main.js.map": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js.map",
-    "static/js/2.a2504b8b.chunk.js": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js",
-    "static/js/2.a2504b8b.chunk.js.map": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.map",
+    "static/js/2.41492624.chunk.js": "/bratteli-diagram-util/static/js/2.41492624.chunk.js",
+    "static/js/2.41492624.chunk.js.map": "/bratteli-diagram-util/static/js/2.41492624.chunk.js.map",
     "index.html": "/bratteli-diagram-util/index.html",
-    "precache-manifest.191458fcdab2e796696bb86bfa112fba.js": "/bratteli-diagram-util/precache-manifest.191458fcdab2e796696bb86bfa112fba.js",
+    "precache-manifest.75e51ff641e62daebb6858143f0b8ff4.js": "/bratteli-diagram-util/precache-manifest.75e51ff641e62daebb6858143f0b8ff4.js",
     "service-worker.js": "/bratteli-diagram-util/service-worker.js",
     "static/css/main.5f18d2b5.chunk.css.map": "/bratteli-diagram-util/static/css/main.5f18d2b5.chunk.css.map",
-    "static/js/2.a2504b8b.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.LICENSE.txt",
+    "static/js/2.41492624.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.41492624.chunk.js.LICENSE.txt",
     "static/media/mi.png": "/bratteli-diagram-util/static/media/mi.e22ac40b.png",
     "static/media/mo.png": "/bratteli-diagram-util/static/media/mo.1906809e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.378aae72.js",
-    "static/js/2.a2504b8b.chunk.js",
+    "static/js/2.41492624.chunk.js",
     "static/css/main.5f18d2b5.chunk.css",
-    "static/js/main.50f38392.chunk.js"
+    "static/js/main.f2b48ec5.chunk.js"
   ]
 }
