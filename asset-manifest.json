@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bratteli-diagram-util/static/css/main.c74b211c.chunk.css",
-    "main.js": "/bratteli-diagram-util/static/js/main.0f013ad3.chunk.js",
-    "main.js.map": "/bratteli-diagram-util/static/js/main.0f013ad3.chunk.js.map",
+    "main.js": "/bratteli-diagram-util/static/js/main.0ccb8a2a.chunk.js",
+    "main.js.map": "/bratteli-diagram-util/static/js/main.0ccb8a2a.chunk.js.map",
     "runtime-main.js": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js",
     "runtime-main.js.map": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js.map",
     "static/js/2.a2504b8b.chunk.js": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js",
     "static/js/2.a2504b8b.chunk.js.map": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.map",
     "index.html": "/bratteli-diagram-util/index.html",
-    "precache-manifest.f1d6c7b25727284d68de660b62687d81.js": "/bratteli-diagram-util/precache-manifest.f1d6c7b25727284d68de660b62687d81.js",
+    "precache-manifest.75dc297a03cf095204982987ab557258.js": "/bratteli-diagram-util/precache-manifest.75dc297a03cf095204982987ab557258.js",
     "service-worker.js": "/bratteli-diagram-util/service-worker.js",
     "static/css/main.c74b211c.chunk.css.map": "/bratteli-diagram-util/static/css/main.c74b211c.chunk.css.map",
     "static/js/2.a2504b8b.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.378aae72.js",
     "static/js/2.a2504b8b.chunk.js",
     "static/css/main.c74b211c.chunk.css",
-    "static/js/main.0f013ad3.chunk.js"
+    "static/js/main.0ccb8a2a.chunk.js"
   ]
 }
