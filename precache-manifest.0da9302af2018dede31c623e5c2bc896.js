@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45de10b1c203f34732b47a7532efbded",
+    "revision": "d0ebb856d4ef8503a4fa17f67d735e64",
     "url": "/bratteli-diagram-util/index.html"
   },
   {
-    "revision": "d4489a3d63c8b86d2d6f",
-    "url": "/bratteli-diagram-util/static/css/main.7dd3f945.chunk.css"
+    "revision": "8d35a08ca3f77e2347d4",
+    "url": "/bratteli-diagram-util/static/css/main.6c03d2fa.chunk.css"
   },
   {
     "revision": "0198fa00c145d35a5082",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4489a3d63c8b86d2d6f",
-    "url": "/bratteli-diagram-util/static/js/main.2541cfa4.chunk.js"
+    "revision": "8d35a08ca3f77e2347d4",
+    "url": "/bratteli-diagram-util/static/js/main.adee1343.chunk.js"
   },
   {
     "revision": "b9ef8114abefafd98e75",

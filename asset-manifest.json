@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bratteli-diagram-util/static/css/main.7dd3f945.chunk.css",
-    "main.js": "/bratteli-diagram-util/static/js/main.2541cfa4.chunk.js",
-    "main.js.map": "/bratteli-diagram-util/static/js/main.2541cfa4.chunk.js.map",
+    "main.css": "/bratteli-diagram-util/static/css/main.6c03d2fa.chunk.css",
+    "main.js": "/bratteli-diagram-util/static/js/main.adee1343.chunk.js",
+    "main.js.map": "/bratteli-diagram-util/static/js/main.adee1343.chunk.js.map",
     "runtime-main.js": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js",
     "runtime-main.js.map": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js.map",
     "static/js/2.a2504b8b.chunk.js": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js",
     "static/js/2.a2504b8b.chunk.js.map": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.map",
     "index.html": "/bratteli-diagram-util/index.html",
-    "precache-manifest.b82959e8a565d250364e49350f8363e6.js": "/bratteli-diagram-util/precache-manifest.b82959e8a565d250364e49350f8363e6.js",
+    "precache-manifest.0da9302af2018dede31c623e5c2bc896.js": "/bratteli-diagram-util/precache-manifest.0da9302af2018dede31c623e5c2bc896.js",
     "service-worker.js": "/bratteli-diagram-util/service-worker.js",
-    "static/css/main.7dd3f945.chunk.css.map": "/bratteli-diagram-util/static/css/main.7dd3f945.chunk.css.map",
+    "static/css/main.6c03d2fa.chunk.css.map": "/bratteli-diagram-util/static/css/main.6c03d2fa.chunk.css.map",
     "static/js/2.a2504b8b.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.a2504b8b.chunk.js.LICENSE.txt",
     "static/media/mi.png": "/bratteli-diagram-util/static/media/mi.e22ac40b.png",
     "static/media/mo.png": "/bratteli-diagram-util/static/media/mo.1906809e.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.378aae72.js",
     "static/js/2.a2504b8b.chunk.js",
-    "static/css/main.7dd3f945.chunk.css",
-    "static/js/main.2541cfa4.chunk.js"
+    "static/css/main.6c03d2fa.chunk.css",
+    "static/js/main.adee1343.chunk.js"
   ]
 }
