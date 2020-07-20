@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db293afa2d3c64d13c28de187382058e",
+    "revision": "4e38ae23e641dde1be467de377225fe4",
     "url": "/bratteli-diagram-util/index.html"
   },
   {
-    "revision": "37d5b1dd32f6ec4dc9db",
-    "url": "/bratteli-diagram-util/static/css/main.5f18d2b5.chunk.css"
+    "revision": "61406cf144c47ad768e3",
+    "url": "/bratteli-diagram-util/static/css/main.2afe074c.chunk.css"
   },
   {
-    "revision": "4d1213f4466359e5edee",
-    "url": "/bratteli-diagram-util/static/js/2.41492624.chunk.js"
+    "revision": "1ac2a715e6ac063ab086",
+    "url": "/bratteli-diagram-util/static/js/2.084ab4dc.chunk.js"
   },
   {
     "revision": "e897d7cda7099e59697d11e97b32990a",
-    "url": "/bratteli-diagram-util/static/js/2.41492624.chunk.js.LICENSE.txt"
+    "url": "/bratteli-diagram-util/static/js/2.084ab4dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37d5b1dd32f6ec4dc9db",
-    "url": "/bratteli-diagram-util/static/js/main.f2b48ec5.chunk.js"
+    "revision": "61406cf144c47ad768e3",
+    "url": "/bratteli-diagram-util/static/js/main.9b9bc1ab.chunk.js"
   },
   {
     "revision": "b9ef8114abefafd98e75",
