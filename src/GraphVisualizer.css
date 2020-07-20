@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+.action{
+  z-index: 1;
+  position:'absolute'
+
+}
+
+.button-group{
+  padding-bottom: 100px;
+  margin: 0;
+  position: absolute;
+  left: 2%;
+  bottom: 18%;
+}
+
+.create-group{
+  padding-bottom: 100px;
+  margin: 0;
+  position: absolute;
+  left: 2%;
+  bottom: 2%;
+}
+
+#matrix-select {
+  position: absolute;
+  top: 17%;
+  padding: 20px;
+  z-index: 2;
+}
+
+#logo{
+  font-family: 'Roboto', sans-serif;
+  padding-top: 10px;
+  font-size: 2.5em;
+  text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  padding-left: 40px;
+  color: white;
+  position: absolute;
+}
+
+.App-link {
+  color: #61dafb;
+}
