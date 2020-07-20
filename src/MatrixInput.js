@@ -210,6 +210,8 @@ class MatrixInput extends React.Component {
         </label>
         {this.state.levels ? this.state.levels : <text>No Levels Yet</text>}
         <button onClick={this.passToParent} >Submit To Graph</button>
+
+        <footer id="footer">Email <a href="mailto: bshaheen@hamilton.edu">Belal</a> if you encounter any bugs!</footer>
       </div>
     );
   }
