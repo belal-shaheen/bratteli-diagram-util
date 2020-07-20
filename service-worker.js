@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bratteli-diagram-util/precache-manifest.7234aa42dd812e83d5c531cddbc3ee76.js"
+  "/bratteli-diagram-util/precache-manifest.6aba2dcf9fa132632d34277af71d254b.js"
 );
 
 self.addEventListener('message', (event) => {
