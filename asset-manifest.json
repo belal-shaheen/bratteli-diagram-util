@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bratteli-diagram-util/static/css/main.531eb73c.chunk.css",
-    "main.js": "/bratteli-diagram-util/static/js/main.ddf041ba.chunk.js",
-    "main.js.map": "/bratteli-diagram-util/static/js/main.ddf041ba.chunk.js.map",
+    "main.css": "/bratteli-diagram-util/static/css/main.f1e6b366.chunk.css",
+    "main.js": "/bratteli-diagram-util/static/js/main.67616d99.chunk.js",
+    "main.js.map": "/bratteli-diagram-util/static/js/main.67616d99.chunk.js.map",
     "runtime-main.js": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js",
     "runtime-main.js.map": "/bratteli-diagram-util/static/js/runtime-main.378aae72.js.map",
-    "static/js/2.291b7f03.chunk.js": "/bratteli-diagram-util/static/js/2.291b7f03.chunk.js",
-    "static/js/2.291b7f03.chunk.js.map": "/bratteli-diagram-util/static/js/2.291b7f03.chunk.js.map",
+    "static/js/2.2d2cbd8b.chunk.js": "/bratteli-diagram-util/static/js/2.2d2cbd8b.chunk.js",
+    "static/js/2.2d2cbd8b.chunk.js.map": "/bratteli-diagram-util/static/js/2.2d2cbd8b.chunk.js.map",
     "index.html": "/bratteli-diagram-util/index.html",
-    "precache-manifest.c13deedb0f1bcecb39fd35537f4d2179.js": "/bratteli-diagram-util/precache-manifest.c13deedb0f1bcecb39fd35537f4d2179.js",
+    "precache-manifest.62804a3f661fa85b0431530276c0002c.js": "/bratteli-diagram-util/precache-manifest.62804a3f661fa85b0431530276c0002c.js",
     "service-worker.js": "/bratteli-diagram-util/service-worker.js",
-    "static/css/main.531eb73c.chunk.css.map": "/bratteli-diagram-util/static/css/main.531eb73c.chunk.css.map",
-    "static/js/2.291b7f03.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.291b7f03.chunk.js.LICENSE.txt",
+    "static/css/main.f1e6b366.chunk.css.map": "/bratteli-diagram-util/static/css/main.f1e6b366.chunk.css.map",
+    "static/js/2.2d2cbd8b.chunk.js.LICENSE.txt": "/bratteli-diagram-util/static/js/2.2d2cbd8b.chunk.js.LICENSE.txt",
     "static/media/mi.png": "/bratteli-diagram-util/static/media/mi.e22ac40b.png",
     "static/media/mo.png": "/bratteli-diagram-util/static/media/mo.1906809e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.378aae72.js",
-    "static/js/2.291b7f03.chunk.js",
-    "static/css/main.531eb73c.chunk.css",
-    "static/js/main.ddf041ba.chunk.js"
+    "static/js/2.2d2cbd8b.chunk.js",
+    "static/css/main.f1e6b366.chunk.css",
+    "static/js/main.67616d99.chunk.js"
   ]
 }
